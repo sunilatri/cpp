@@ -1,0 +1,20 @@
+# ninja log v5
+0	10	0	clean	9992afb1f91dc381
+1	699	6383150692373960	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	dd14e4b5f5c9dbea
+701	1100	6383150696239152	CMakeProject1/CMakeProject1.exe	fb32e38c9a4cafb4
+0	11	0	clean	9992afb1f91dc381
+1	786	6385880638184684	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	dd14e4b5f5c9dbea
+787	1277	6385880642198303	CMakeProject1/CMakeProject1.exe	fb32e38c9a4cafb4
+1	11	0	clean	9992afb1f91dc381
+1	699	6385891149930978	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	dd14e4b5f5c9dbea
+700	930	6385891151815405	CMakeProject1/CMakeProject1.exe	fb32e38c9a4cafb4
+1	977	6386419082230604	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	dd14e4b5f5c9dbea
+979	1456	6386419086330833	CMakeProject1/CMakeProject1.exe	fb32e38c9a4cafb4
+0	446	6386452364547606	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	dd14e4b5f5c9dbea
+447	670	6386452366397590	CMakeProject1/CMakeProject1.exe	fb32e38c9a4cafb4
+0	13	0	clean	9992afb1f91dc381
+1	845	6389099694131573	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	dd14e4b5f5c9dbea
+846	1370	6389099698410439	CMakeProject1/CMakeProject1.exe	fb32e38c9a4cafb4
+0	12	0	clean	9992afb1f91dc381
+1	833	6389160967051525	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	dd14e4b5f5c9dbea
+835	1184	6389160969963702	CMakeProject1/CMakeProject1.exe	fb32e38c9a4cafb4
